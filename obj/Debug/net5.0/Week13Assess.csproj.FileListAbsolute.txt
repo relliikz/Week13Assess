@@ -1,0 +1,16 @@
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\obj\Debug\net5.0\Week13Assess.csproj.AssemblyReference.cache
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\obj\Debug\net5.0\Week13Assess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\obj\Debug\net5.0\Week13Assess.AssemblyInfoInputs.cache
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\obj\Debug\net5.0\Week13Assess.AssemblyInfo.cs
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\obj\Debug\net5.0\Week13Assess.csproj.CoreCompileInputs.cache
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\bin\Debug\net5.0\Week13Assess.exe
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\bin\Debug\net5.0\Week13Assess.deps.json
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\bin\Debug\net5.0\Week13Assess.runtimeconfig.json
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\bin\Debug\net5.0\Week13Assess.runtimeconfig.dev.json
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\bin\Debug\net5.0\Week13Assess.dll
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\bin\Debug\net5.0\ref\Week13Assess.dll
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\bin\Debug\net5.0\Week13Assess.pdb
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\obj\Debug\net5.0\Week13Assess.dll
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\obj\Debug\net5.0\ref\Week13Assess.dll
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\obj\Debug\net5.0\Week13Assess.pdb
+C:\Users\101098271\OneDrive - Swinburne University\Tuesday\ICTPRG430 - INTRO PROGRAMMING\Week13\Week13Assess\obj\Debug\net5.0\Week13Assess.genruntimeconfig.cache
